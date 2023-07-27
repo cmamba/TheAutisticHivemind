@@ -1,2 +1,2 @@
-# TheAutisticHivemind
+# The Autistic Hivemind
 Fine-tuning Large Language Models &amp; other AI with content made by autistic creators
