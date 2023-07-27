@@ -22,6 +22,10 @@ Code to select as many links as desired and download all the selected data
 
 FINE TUNE
 
+```shell
+python3 -m pip install -r requirements.txt
+```
+
 Instructions on how to finetune an LLM with the data you want
 
 Google Colab notebook: https://colab.research.google.com/drive/1PEQyJO1-f6j0S_XJ8DV50NkpzasXkrzd?usp=sharing#scrollTo=nAMzy_0FtaUZ
